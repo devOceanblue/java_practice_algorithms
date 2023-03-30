@@ -1,4 +1,4 @@
-package com.example.demo;
+package com.example.demo.leetcode;
 
 import lombok.AllArgsConstructor;
 import lombok.NoArgsConstructor;

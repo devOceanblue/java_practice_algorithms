@@ -1,4 +1,4 @@
-package com.example.demo;
+package com.example.demo.leetcode;
 
 import java.util.Arrays;
 import java.util.Comparator;
